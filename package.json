@@ -1,0 +1,22 @@
+{
+  "name": "traetest",
+  "version": "1.0.0",
+  "description": "Aplikasi ini digunakan untuk mencatat dan mengelola data meter air pelanggan PDAM. Sistem ini memungkinkan petugas untuk mencatat pembacaan meter, mengelola data pelanggan, dan menghasilkan berbagai laporan analitik.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.1",
+    "express": "^5.1.0"
+  },
+  "directories": {
+    "doc": "docs"
+  }
+}
